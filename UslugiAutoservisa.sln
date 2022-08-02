@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UslugiAutoservisa", "UslugiAutoservisa\UslugiAutoservisa.csproj", "{C84BC0EB-8202-404F-ADDA-9EEAB909A401}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{857A5865-A3E0-43CC-97AC-69649CDE16A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C84BC0EB-8202-404F-ADDA-9EEAB909A401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84BC0EB-8202-404F-ADDA-9EEAB909A401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84BC0EB-8202-404F-ADDA-9EEAB909A401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84BC0EB-8202-404F-ADDA-9EEAB909A401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857A5865-A3E0-43CC-97AC-69649CDE16A3}.Debug|Any CPU.ActiveCfg = Debug
+		{857A5865-A3E0-43CC-97AC-69649CDE16A3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F77E26-C64E-4665-9034-EFAF80075E25}
+	EndGlobalSection
+EndGlobal
